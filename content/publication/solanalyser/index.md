@@ -4,7 +4,7 @@
 title: "SolAnalyser: A Framework for Analysing and Testing Smart Contracts"
 authors: ["Sefa Akca", "Ajitha Rajan", "Chao Peng"]
 date: 2019-09-30T00:00:00+01:00
-doi: ""
+doi: "10.1109/APSEC48747.2019.00071"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-30T00:00:00+01:00

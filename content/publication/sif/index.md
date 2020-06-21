@@ -4,7 +4,7 @@
 title: "SIF: A Framework for Solidity Contract Instrumentation and Analysis"
 authors: ["Chao Peng", "Sefa Akca", "Ajitha Rajan"]
 date: 2019-09-30T00:00:00+01:00
-doi: ""
+doi: "10.1109/APSEC48747.2019.00069"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-30T00:00:00+01:00

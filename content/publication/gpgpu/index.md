@@ -4,7 +4,7 @@
 title: "Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving"
 authors: ["Chao Peng", "Ajitha Rajan"]
 date: 2020-02-23T00:00:00+01:00
-doi: ""
+doi: "10.1145/3366428.3380768"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-02-23T00:00:00+01:00

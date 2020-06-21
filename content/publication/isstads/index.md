@@ -4,7 +4,7 @@
 title: "On the Correctness of GPU Programs"
 authors: ["Chao Peng"]
 date: 2019-05-30T00:00:00+01:00
-doi: ""
+doi: "10.1145/3293882.3338989"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-05-30T00:00:00+01:00

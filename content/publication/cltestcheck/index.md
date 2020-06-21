@@ -4,7 +4,7 @@
 title: "CLTestCheck: Measuring Test Effectiveness for GPU Kernels"
 authors: ["Chao Peng", "Ajitha Rajan"]
 date: 2019-04-06T00:00:00+01:00
-doi: ""
+doi: "10.1007/978-3-030-16722-6_19"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-04-06T00:00:00+01:00
