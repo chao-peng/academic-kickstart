@@ -84,7 +84,7 @@ His research interest lies in the area of massively parallel architectures and p
 
 Email:
 ```bash
-forename=chao
-surname=peng
+forename="chao"
+surname="peng"
 email=${forename}.${surname}@ed.ac.uk
 ```
