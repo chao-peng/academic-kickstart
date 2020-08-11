@@ -1,0 +1,11 @@
+# Font style metadata
+name = "mytheme"
+
+# Optional Google font URL
+google_fonts = "Architects+Daughter|Fira+Code:400|Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Architects Daughter"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Fira Code"

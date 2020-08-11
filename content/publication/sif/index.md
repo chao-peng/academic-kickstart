@@ -16,8 +16,8 @@ publishDate: 2019-09-30T00:00:00+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In proceedings of The Asia-Pacific Software Engineering Conference (APSEC) (To appear in December 2019)"
-publication_short: "In proceedings of APSEC 2019 (To appear in December 2019)"
+publication: "In proceedings of the 2019 26th Asia-Pacific Software Engineering Conference (APSEC)"
+publication_short: "In proceedings of APSEC 2019"
 
 abstract: "Solidity is an object-oriented and high-level language for writing smart contracts that are used to execute, verify and enforce credible transactions on permissionless blockchains. In the last few years, analysis of smart contracts has raised considerable interest and numerous techniques have been proposed to check the presence of vulnerabilities in them. Current techniques lack traceability in source code and have widely differing work flows. There is no single unifying framework for analysis, instrumentation, optimisation and code generation of Solidity contracts.\n\nIn this paper, we present SIF, a comprehensive framework for Solidity contract analysis, query, instrumentation, and code generation. SIF provides support for Solidity contract developers and testers to build source level techniques for analysis, understanding, diagnostics, optimisations and code generation. We show feasibility and applicability of the framework by building practical tools on top of it and running them on 1838 real smart contracts deployed on the Ethereum network."
 
