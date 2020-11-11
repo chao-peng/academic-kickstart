@@ -10,7 +10,7 @@ title = "Awards"
 +++
 
 ### Scholarship
-- **Huawei Scholarship** (fully-funded PhD scholarship)
+- **School of Informatics Scholarship** (fully-funded PhD scholarship)
 - **Outstanding Graduate Scholarship** at Xuzhou University of Technology
 - **China National Scholarship** of 2014⁄15 Academic Year
 - **China National Encouragement Scholarship** of 2013⁄14 Academic Year

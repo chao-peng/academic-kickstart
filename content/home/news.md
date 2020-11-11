@@ -15,6 +15,6 @@ title = "News"
 - **31 Jul 2019** We are excited to release **[SIF](https://github.com/chao-peng/Sif)** - a code analysis and instrumentation framework for Solidity smart contracts.
 - **30 May 2019** My PhD research proposal *[On the Correctness of GPU programs](https://chao-peng.github.io/publication/isstads/)* is accepted by ISSTA 2019 Doctoral Symposium.
 - **24 Jan 2019** Our paper *[CLTestCheck: Measuring Test Effectiveness for GPU Kernels](https://chao-peng.github.io/publication/cltestcheck/)* is accepted by FASE 2019.
-- **01 Sep 2017** Started my PhD at University of Edinburgh with Dr. Ajitha Rajan fully funded by Huawei Scholarship.
+- **01 Sep 2017** Started my PhD at University of Edinburgh with Dr. Ajitha Rajan fully funded by School of Informatics Scholarship.
 - **17 Nov 2016** Our Team EPCC selected to participate in the final round of the ISC Student Cluster Competition.
 
