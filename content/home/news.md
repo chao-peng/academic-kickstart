@@ -8,7 +8,8 @@ title = "News"
     columns = 2
 
 +++
-
+- **28 Dec 2020** Started project with ByteDance on Android testing.
+- **23 Nov 2020** Started part-time programming language research intern at Huawei Edinburgh Research Centre mentored by Dan Ghica, the PL group lead.
 - **20 Jan 2020** Our paper *[Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving](https://dl.acm.org/doi/abs/10.1145/3366428.3380768)* is accepted by PPoPP’s GPGPU Workshop 2020.
 - **28 Oct 2019** Joined Huawei London Research Centre as a Mobile GPU Intern mentored by Graham Connor, the Chief GPU Scientist.
 - **30 Sep 2019** Our papers *[SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://ieeexplore.ieee.org/document/8945726)* and *[SolAnalyser: A Framework for Analysing and Testing Smart Contracts](https://ieeexplore.ieee.org/document/8945725)* are accepted by APSEC 2019.

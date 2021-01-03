@@ -35,12 +35,12 @@
 
 [[main]]
   name = "CV"
-  url = "chao-peng-cv.pdf"
+  url = "cv-chaopeng-en.pdf"
   weight = 70
 
 [[main]]
   name = "简历"
-  url = "chao-peng-cv-zh.pdf"
+  url = "cv-chaopeng-zh.pdf"
   weight = 80
 
 # Link to a PDF of your resume/CV from the menu.

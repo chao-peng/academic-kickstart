@@ -86,7 +86,9 @@ Chao Peng （彭péng, 超chāo） is a PhD candidate at the [Laboratory for Fou
 His research interest lies in the area of massively parallel architectures and programming. He is currently doing research in defining code coverage metrics for GPU programs and automated test case generation, reduction and execution. His supervisor is [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
 
 Email:
-```bash
-domain="ed.ac.uk"
-email="chao.peng@${domain}"
+```c
+printf("Email: %s%c%s\n", "chao.peng", 0x40, "ed.ac.uk");
+printf("Permanent Email: %s%c%s\n", "xzchao93", 0x40, "gmail.com");
 ```
+<button id='targetButton' onclick="targetField = document.getElementById('display');targetButton = document.getElementById('targetButton');if (targetField.innerHTML=='') {var first='Email: ' + 'chao.peng'+'@'+'ed.ac.uk';var second='Permanent Email: ' + 'xzchao93' + '@' + 'gmail.com'; targetField.innerHTML=first + '<br>' + second;targetButton.innerHTML='Hide Result'} else {targetField.innerHTML='';targetButton.innerHTML='Display Result'}">Display Result</button><br>
+<span id="display"></span>
