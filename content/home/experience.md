@@ -17,8 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Mobile GPU Intern"
+  title = "Programming Language Research Intern"
+  company = "Huawei Edinburgh Research Centre"
+  company_url = ""
+  location = "Edinburgh, UK"
+  date_start = "2020-11-23"
+  date_end = ""
+  description = """
+
+  - Project: Testing and benchmarking for compilers
+  - Mentor: Dan Ghica (PL Group Lead)
+  """
+
+[[experience]]
+  title = "Mobile GPU Research Intern"
   company = "Huawei London Research Centre"
   company_url = ""
   location = "London, UK"
