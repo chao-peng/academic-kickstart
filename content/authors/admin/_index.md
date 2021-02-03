@@ -49,7 +49,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: 'chao-peng-cv.pdf'  # For a direct email link, use "mailto:test@example.org".
+  link: 'cv-chaopeng-en.pdf'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/chao-peng-uoe/
