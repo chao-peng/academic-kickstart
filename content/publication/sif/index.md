@@ -24,7 +24,7 @@ abstract: "Solidity is an object-oriented and high-level language for writing sm
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["high level languages", "software testing", "code instrumentation", "program analysis"]
+tags: ["High Level Languages", "Software Testing", "Code Instrumentation", "Program Analysis"]
 categories: []
 featured: false
 

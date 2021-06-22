@@ -14,7 +14,7 @@ title = "Service"
   <tbody>
     <tr>
       <td><b>PC Member</b></td>
-      <td>ISSTA 2020 Artifact Evaluation Track</td>
+      <td>ISSTA 2020 Artifact Evaluation, ISSTA 2021 Artifact Evaluation</td>
     </tr>
     <tr>
       <td><b>Reviewer</b></td>

@@ -8,6 +8,7 @@ title = "News"
     columns = 2
 
 +++
+- **15 Jun 2021** Our paper *CAT: Change-focused Android GUI Testing* is accepted by ICSME 2021.
 - **28 Dec 2020** Started project with ByteDance on Android testing.
 - **23 Nov 2020** Started part-time programming language research intern at Huawei Edinburgh Research Centre mentored by Dan Ghica, the PL group lead.
 - **20 Jan 2020** Our paper *[Automated Test Generation for OpenCL Kernels Using Fuzzing and Constraint Solving](https://dl.acm.org/doi/abs/10.1145/3366428.3380768)* is accepted by PPoPP’s GPGPU Workshop 2020.

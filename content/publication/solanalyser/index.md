@@ -24,7 +24,7 @@ abstract: "Executing, verifying and enforcing credible transactions on permissio
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["blockchain", "smart contract", "testing", "static analysis", "assertions", "fault seeding"]
+tags: ["Blockchain", "Smart Contract", "Testing", "Static Analysis", "Assertions", "Fault Seeding"]
 categories: []
 featured: false
 
