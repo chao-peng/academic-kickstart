@@ -8,6 +8,7 @@ title = "News"
     columns = 2
 
 +++
+- **30 Jun 2021** Our paper *Testing Smart Contracts: Which Technique Performs Best?* is accepted by ESEM 2021.
 - **15 Jun 2021** Our paper *CAT: Change-focused Android GUI Testing* is accepted by ICSME 2021.
 - **28 Dec 2020** Started project with ByteDance on Android testing.
 - **23 Nov 2020** Started part-time programming language research intern at Huawei Edinburgh Research Centre mentored by Dan Ghica, the PL group lead.
