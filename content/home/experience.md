@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Quality Engineer"
+  title = "Research Engineer"
   company = "ByteDance"
   company_url = ""
   location = "Beijing, China"
@@ -53,6 +53,5 @@ date_format = "Jan 2006"
 
   - Project: Micro benchmarking for mobile GPUs
   - Mentor: Graham Connor (Chief GPU Scientist)
-  - Final Appraisal: Excellent
   """
 +++
