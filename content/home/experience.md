@@ -26,7 +26,9 @@ date_format = "Jan 2006"
   date_start = "2021-07-05"
   date_end = ""
   description = """
-  Research Engineer at ByteDance Quality Lab
+
+  - Project: Quality engineering for ByteDance products.
+  - Mentors: Zhao Zhang, Ping Yang
   """
 
 [[experience]]

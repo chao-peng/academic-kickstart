@@ -11,7 +11,7 @@ title = "Teaching"
 
 **[Sub-supervisor]** MSc Projects. School of Informatics, the University of Edinburgh. Apr 2018 - Aug 2018, Apr 2019 - Aug 2019
 
-**[Teaching Assistant, Tutor and Marker]** Software Testing. School of Informatics, the University of Edinburgh. Jan 2018 - Apr 2018, Jan 2019 - Apr 2019
+**[Teaching Assistant, Tutor and Marker]** Software Testing. School of Informatics, the University of Edinburgh. Jan 2018 - Apr 2018, Jan 2019 - Apr 2019, Jan 2021 - Apr 2021
 
 **[Marker]** Computer Programming Skills and Concepts. School of Informatics, the University of Edinburgh. Nov 2017 - Dec 2017, Dec 2018 - Jan 2019
 
