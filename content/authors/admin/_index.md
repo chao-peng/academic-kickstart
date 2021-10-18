@@ -85,14 +85,10 @@ Chao Peng （彭péng, 超chāo） is a PhD candidate at the [Laboratory for Fou
 
 His research interest lies in the area of massively parallel architectures and programming. He is currently doing research in defining code coverage metrics for GPU programs and automated test case generation, reduction and execution. His supervisor is [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
 
-<!--
-Email:
-```c
-printf("Email: %s%c%s\n", "chao.peng", 0x40, "ed.ac.uk");
-printf("Permanent Email: %s%c%s\n", "xzchao93", 0x40, "gmail.com");
-```
-<button id='targetButton' onclick="targetField = document.getElementById('display');targetButton = document.getElementById('targetButton');if (targetField.innerHTML=='') {var first='Email: ' + 'chao.peng'+'@'+'ed.ac.uk';var second='Permanent Email: ' + 'xzchao93' + '@' + 'gmail.com'; targetField.innerHTML=first + '<br>' + second;targetButton.innerHTML='Hide Result'} else {targetField.innerHTML='';targetButton.innerHTML='Display Result'}">Display Result</button><br>
--->
 
-<button id='btnShowEmail' onclick="targetField = document.getElementById('display'); btnShowEmail = document.getElementById('btnShowEmail'); var userName1 = 'chao.peng', domain1 = 'ed.ac.uk', userName2 = 'xzchao93', domain2 = 'gmail.com', userName3 = 'pengchao.x', domain3 = 'bytedance.com'; var first=`University Email: ${userName1}@${domain1}`;var second=`Permanent Email: ${userName2}@${domain2}`; var third=`Company Email: ${userName3}@${domain3}`;targetField.innerHTML=third + '<br>' + first + '<br>' + second; btnShowEmail.style.display = 'none';">Show Email Addresses</button><br>
-<span id="display"></span>
+Email:
+```bash
+prefix="pengchao.x"
+company="bytedance"
+email=${prefix}@${company}.com
+```
