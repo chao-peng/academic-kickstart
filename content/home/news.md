@@ -8,7 +8,7 @@ title = "News"
     columns = 2
 
 +++
-- **05 Jul 2021** Joined ByteDance as a Research Engineer within the Quality Lab
+- **05 Jul 2021** Joined ByteDance as a Senior Researcher within the Quality Lab
 - **30 Jun 2021** Our paper *Testing Smart Contracts: Which Technique Performs Best?* is accepted by ESEM 2021.
 - **15 Jun 2021** Our paper *CAT: Change-focused Android GUI Testing* is accepted by ICSME 2021.
 - **28 Dec 2020** Started project with ByteDance on Android testing.
