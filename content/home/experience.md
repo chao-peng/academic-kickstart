@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Engineer"
+  title = "Tech Expert / Senior Researcher"
   company = "ByteDance"
   company_url = ""
   location = "Beijing, China"
@@ -27,12 +27,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  - Project: Quality engineering for ByteDance products.
-  - Mentors: Zhao Zhang, Ping Yang
+  - Department: Quality Lab, Product RD & Infrastructure
   """
 
 [[experience]]
-  title = "Programming Language Research Intern"
+  title = "[Internship] Programming Language Research Intern"
   company = "Huawei Edinburgh Research Centre"
   company_url = ""
   location = "Edinburgh, UK"
@@ -45,7 +44,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Mobile GPU Research Intern"
+  title = "[Internship] Mobile GPU Research Intern"
   company = "Huawei London Research Centre"
   company_url = ""
   location = "London, UK"
