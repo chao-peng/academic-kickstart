@@ -81,9 +81,19 @@ user_groups:
 - Visitors
 ---
 
-Chao Peng （彭péng, 超chāo） is a PhD candidate at the [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [School of Informatics](https://www.ed.ac.uk/informatics), [The University of Edinburgh](https://www.ed.ac.uk/). He holds an MSc in High Performance Computing with Data Science from the University of Edinburgh and a BEng in Computer Science and Technology from Xuzhou University of Technology. During his MSc, he was a member of Team EPCC for the International Supercomputing Conference Student Cluster Competition.
+Chao Peng （彭péng, 超chāo）
 
-His research interest lies in the area of massively parallel architectures and programming. He is currently doing research in defining code coverage metrics for GPU programs and automated test case generation, reduction and execution. His supervisor is [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
+I am a Tech Expert / Senior Researcher at [ByteDance (字节跳动)](https://www.bytedance.com) working on software quality assurance.
+I received my PhD degree from [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [The University of Edinburgh](https://www.ed.ac.uk/) under supervision of [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
+
+At ByteDance, I am on the Quality Lab team. My research interest lies in the area of software testing, maintenance and quality assurance.
+
+Outside of work, I enjoy going to the gym.
+
+
+[//]: # (Chao Peng （彭péng, 超chāo） is a PhD candidate at the [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [School of Informatics](https://www.ed.ac.uk/informatics), [The University of Edinburgh](https://www.ed.ac.uk/). He holds an MSc in High Performance Computing with Data Science from the University of Edinburgh and a BEng in Computer Science and Technology from Xuzhou University of Technology. During his MSc, he was a member of Team EPCC for the International Supercomputing Conference Student Cluster Competition.)
+
+[//]: # (His research interest lies in the area of massively parallel architectures and programming. He is currently doing research in defining code coverage metrics for GPU programs and automated test case generation, reduction and execution. His supervisor is [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).)
 
 
 Email:
