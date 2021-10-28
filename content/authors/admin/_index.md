@@ -10,16 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Informatics
+role: Tech Expert / Senior Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Laboratory for Foundations of Computer Science
-  url: "http://wcms.inf.ed.ac.uk/lfcs"
-- name: School of Informatics
-  url: "https://www.ed.ac.uk/informatics"
-- name: University of Edinburgh
-  url: "https://www.ed.ac.uk"
+- name: Quality Lab
+- name: ByteDance
+  url: "https://www.bytedance.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Software Testing, Blockchain Security and Programming Languages.
