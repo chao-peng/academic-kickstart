@@ -23,9 +23,8 @@ bio: My research interests include Software Testing, Blockchain Security and Pro
 
 interests:
 - Software Testing
-- GPGPU
-- Smart Contract Security
-- Programming Languages
+- Quality Assurance
+- Programming Languages and Compilers
 
 education:
   courses:
