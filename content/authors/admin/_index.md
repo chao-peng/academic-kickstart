@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Informatics
     institution: University of Edinburgh, UK
-    year: In Progress
+    year: 2021
   - course: MSc in High Performance Computing and Data Science
     institution: University of Edinburgh, UK
     year: 2017
