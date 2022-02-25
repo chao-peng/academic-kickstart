@@ -79,10 +79,10 @@ user_groups:
 
 Chao Peng （彭péng, 超chāo）
 
-I am a Tech Expert / Senior Researcher at [ByteDance (字节跳动)](https://www.bytedance.com) working on software quality assurance.
+I am a Tech Expert / Senior Researcher at [ByteDance (字节跳动)](https://www.bytedance.com) working on software quality assurance and a part-time postgraduate student mentor of [School of Software, Fudan University](https://software.fudan.edu.cn/).
 I received my PhD degree from [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [The University of Edinburgh](https://www.ed.ac.uk/) under supervision of [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
 
-At ByteDance, I am on the Quality Lab team. My research interest lies in the area of software testing, maintenance and quality assurance, and the synergy with machine learning and compiler techniques. I am also responsible for lab-wide research development and academic cooperation.
+At ByteDance, I am on the Quality Lab team. My research interest lies in the area of software testing, maintenance and quality assurance, and the synergy with machine learning and compiler techniques. I am also responsible for lab-wide academic development and university collaboration.
 
 I am passionate about building practical software testing, analysis, and debugging systems to predict, detect, diagnose, and fix bugs for all kinds of software systems.
 
