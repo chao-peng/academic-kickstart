@@ -20,15 +20,21 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Tech Expert / Senior Researcher"
-  company = "ByteDance"
+  company = "Quality Lab, Product RD & Infrastructure, ByteDance"
   company_url = ""
   location = "Beijing, China"
   date_start = "2021-07-05"
   date_end = ""
-  description = """
+  description = "Program Analysis | Testing | Research Development | University Collaboration"
 
-  - Department: Quality Lab, Product RD & Infrastructure
-  """
+[[experience]]
+  title = "**Part-time** Postgraduate Student Mentor"
+  company = "School of Computer Science, Fudan University"
+  company_url = ""
+  location = "Shanghai, China"
+  date_start = "2022-03-02"
+  date_end = ""
+  description = ""
 
 [[experience]]
   title = "[Internship] Programming Language Research Intern"

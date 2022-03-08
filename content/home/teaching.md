@@ -8,6 +8,7 @@ title = "Teaching"
     columns = 2
 
 +++
+**[Part-time Postgraduate Student Mentor]** School of Computer Science, Fudan University. Mar 2022 - Present
 
 **[Sub-supervisor]** MSc Projects. School of Informatics, the University of Edinburgh. Apr 2018 - Aug 2018, Apr 2019 - Aug 2019
 
