@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = "Program Analysis | Testing | Research Development | University Collaboration"
 
 [[experience]]
-  title = "**Part-time** Postgraduate Student Mentor"
+  title = "[Part-time] Postgraduate Student Mentor"
   company = "School of Computer Science, Fudan University"
   company_url = ""
   location = "Shanghai, China"
