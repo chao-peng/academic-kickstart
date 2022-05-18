@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Tech Expert / Senior Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Quality Lab
+- name: App Infra Research Center
 - name: ByteDance
   url: "https://www.bytedance.com"
 
@@ -23,7 +23,8 @@ bio: My research interests include Software Testing, Blockchain Security and Pro
 
 interests:
 - Software Testing
-- Quality Assurance
+- Program Repair
+- Program Optimisations
 - Programming Languages and Compilers
 
 education:
@@ -79,10 +80,10 @@ user_groups:
 
 Chao Peng （彭péng, 超chāo）
 
-I am a Tech Expert / Senior Researcher at [ByteDance (字节跳动)](https://www.bytedance.com) working on software quality assurance and a part-time postgraduate student mentor of [School of Computer Science, Fudan University](https://cs.fudan.edu.cn).
+I am a Senior Researcher at [ByteDance (字节跳动)](https://www.bytedance.com) and a part-time postgraduate student mentor of [School of Computer Science, Fudan University](https://cs.fudan.edu.cn).
 I received my PhD degree from [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [The University of Edinburgh](https://www.ed.ac.uk/) under supervision of [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
 
-At ByteDance, I am on the Quality Lab team. My research interest lies in the area of software testing, maintenance and quality assurance, and the synergy with machine learning and compiler techniques. I am also responsible for lab-wide academic development and university collaboration.
+At ByteDance, I am on the App Infra Research Center. My research interest lies in the area of software testing, program repair and optimisations, and the synergy with machine learning and compiler techniques. I am also responsible for department-wide academic development and university collaboration.
 
 I am passionate about building practical software testing, analysis, and debugging systems to predict, detect, diagnose, and fix bugs for all kinds of software systems.
 
