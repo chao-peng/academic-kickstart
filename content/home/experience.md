@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior Researcher"
-  company = "App Infra Research Center, Product RD & Infrastructure, ByteDance"
+  company = "App Infra Research Center, ByteDance"
   company_url = ""
   location = "Beijing, China"
   date_start = "2021-07-05"
