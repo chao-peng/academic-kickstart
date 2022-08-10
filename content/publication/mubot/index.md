@@ -19,12 +19,12 @@ publication_types: ["1"]
 publication: "In proceedings of the 38th International Conference on Software Maintenance and Evolution (ICSME 2022)"
 publication_short: "In proceedings of ICSME 2022"
 
-abstract: "To be added"
+abstract: "Automated GUI testing has been playing a key role to uncover crashes to ensure the stability and robustness of Android apps. Recent research has proposed random, search-based and model-based testing techniques for GUI event generation. In industrial practices, different companies have developed various GUI exploration tools such as Facebook Sapienz, WeChat WeTest and ByteDance Fastbot to test their products. However, these tools are bound to their predefined GUI exploration strategies and lack of the ability to generate human-like actions to test meaningful scenarios. To address these challenges, Humanoid is the first Android testing tool that utilises deep learning to imitate human behaviours and achieves promising results over current model-based methods. However, we find some challenges when applying Humanoid to test our sophisticated commercial apps such as infinite loops and low test coverage. To this end, we performed the first case study on the performance of deep learning techniques using commercial apps to understand the underlying reason of the current weakness of this promising method. Based on our findings, we propose MUBot (Multi-modal User Bot) for human-like Android testing. Our empirical evaluation reveals that MUBot has better performance over Humanoid and Fastbot, our in-house testing tool on coverage achieved and bug-fixing rate on commercial apps."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Software Testing", "Android", "Graphical User Interface", "Program Analysis"]
+tags: ["Android Testing", "Graphical User Interface", "Deep Learning"]
 categories: []
 featured: false
 

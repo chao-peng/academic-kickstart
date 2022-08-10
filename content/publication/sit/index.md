@@ -19,12 +19,12 @@ publication_types: ["1"]
 publication: "In proceedings of the 38th International Conference on Software Maintenance and Evolution (ICSME 2022)"
 publication_short: "In proceedings of ICSME 2022"
 
-abstract: "To be added."
+abstract: "A server API bug could have a huge impact on the operation of other servers and clients relying on that API, resulting in service downtime and financial losses. A common practice of server API testing inside enterprises is writing test inputs and assertions manually, and the test effectiveness depends largely on testers' carefulness, expertise and domain knowledge. Writing test cases for complicated business scenarios with multiple and ordered API calls is also a heavy task that requires a lot of human effort. In this paper, we present the design and deployment of SIT, a fully automated server reliability testing platform at ByteDance that provides capabilities including (1) traffic data generation based on combinatorial testing and fuzzing, (2) scenario testing for complicated business logics and (3) automated test execution with fault localisation in a controlled environment that does not affect online services. SIT has been integrated into the source control system and is triggered when new code change is submitted or configured as scheduled tasks. During the year of 2021, SIT blocked 434 valid issues before they were introduced into the production system."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Software Testing"]
+tags: ["Server Testing", "Traffic Record and Replay", "automated testing"]
 categories: []
 featured: false
 

@@ -8,6 +8,7 @@ title = "News"
     columns = 2
 
 +++
+- **8 Aug 2022** Our paper *[Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning]()* is accepted by the Industry Track of ASE 2022.
 - **22 Jun 2022** Our papers *[MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human]()* and *[Automated Server Testing: an Industrial Experience Report]()* are accepted by the Industry Track of ICSME 2022.
 - **05 Jul 2021** Joined ByteDance as a Tech Expert / Senior Researcher within the Quality Lab
 - **30 Jun 2021** Our paper *[Testing Smart Contracts: Which Technique Performs Best?](https://dl.acm.org/doi/10.1145/3475716.3475779)* is accepted by ESEM 2021.

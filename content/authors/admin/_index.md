@@ -15,6 +15,8 @@ role: Senior Researcher
 # Organizations/Affiliations
 organizations:
 - name: App Infra Research Center
+  url: "https://se-research.bytedance.com"
+
 - name: ByteDance
   url: "https://www.bytedance.com"
 
