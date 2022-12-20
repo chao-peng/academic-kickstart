@@ -37,11 +37,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: pdf/ASE22.pdf
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: https://github.com/bytedance/Fastbot_Android
 url_slides:
 url_source:
 url_video:

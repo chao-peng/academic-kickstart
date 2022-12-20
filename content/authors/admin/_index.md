@@ -101,7 +101,7 @@ Outside of work, I enjoy going to the gym.
 
 Email:
 ```bash
-prefix="pengchao.x"
-company="bytedance"
-email=${prefix}@${company}.com
+prefix="chao.peng"
+domain="acm"
+email=${prefix}@${domain}.org
 ```
