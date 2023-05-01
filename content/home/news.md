@@ -8,9 +8,14 @@ title = "News"
     columns = 2
 
 +++
+- **28 Apr 2023** Our paper *[NxtUnit: Automated Unit Test Generation for Go]()* is accepted by the industry track of EASE.
 - **19 Dec 2022** Our paper *[Characterizing and Finding SystemSetting-Related Defects in Android Apps](publication/tse22/)* is accepted by TSE.
+- **29 Sep 2022** Invited to give a talk on Mobile app testing at ECNU.
 - **8 Aug 2022** Our paper *[Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning](publication/fastbot2/)* is accepted by the Industry Track of ASE 2022.
 - **22 Jun 2022** Our papers *[MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human](publication/mubot/)* and *[Automated Server Testing: an Industrial Experience Report](publication/sit/)* are accepted by the Industry Track of ICSME 2022.
+
+<div style="display:none" id="more_news">
+
 - **05 Jul 2021** Joined ByteDance as a Tech Expert / Senior Researcher within the Quality Lab
 - **30 Jun 2021** Our paper *[Testing Smart Contracts: Which Technique Performs Best?](https://dl.acm.org/doi/10.1145/3475716.3475779)* is accepted by ESEM 2021.
 - **15 Jun 2021** Our paper *[CAT: Change-focused Android GUI Testing](https://ieeexplore.ieee.org/abstract/document/9609107/)* is accepted by ICSME 2021.
@@ -25,3 +30,18 @@ title = "News"
 - **01 Sep 2017** Started my PhD at University of Edinburgh with Dr. Ajitha Rajan fully funded by School of Informatics Scholarship.
 - **17 Nov 2016** Our Team EPCC selected to participate in the final round of the ISC Student Cluster Competition.
 
+</div>
+<script>
+    function handleNews() {
+        button_more = document.getElementById("button_more");
+        news = document.getElementById("more_news");
+        if (button_more.innerHTML == "More..") {
+            button_more.innerHTML = "Hide";
+            news.style.display="block";
+        } else {
+            button_more.innerHTML = "More..";
+            news.style.display="none";
+        }
+    }
+</script>
+<u><a onclick="handleNews()" id="button_more">More..</a></u>

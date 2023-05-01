@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["Testing", "Code Coverage", "Fault Finding", "Data Race", "Mutation Testing", "GPU", "OpenCL"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

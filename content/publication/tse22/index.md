@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["Empirical study", "System Settings", "Android Apps", "GUI Testing", "Static Analysis"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
