@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-weight = 80
+weight = 70
 title = "Awards"
 
 [design]

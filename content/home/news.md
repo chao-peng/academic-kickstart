@@ -8,9 +8,12 @@ title = "News"
     columns = 2
 
 +++
-- **28 Apr 2023** Our paper *[NxtUnit: Automated Unit Test Generation for Go]()* is accepted by the industry track of EASE.
+- **8 Aug 2023** Our paper *[Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration](publication/gopie)* is accepted by ASE 2023.
+- **31 Jul 2023** Our paper *[AG3: Automated Game GUI Text Glitch Detection based on Computer Vision](publication/ag3)* is accepted by the Industry Track of FSE 2023.
+- **19 May 2022** Invited to give a talk on mobile app testing at University of Edinburgh.
+- **28 Apr 2023** Our paper *[NxtUnit: Automated Unit Test Generation for Go](publication/nxtunit)* is accepted by the Industry Track of EASE 2023.
 - **19 Dec 2022** Our paper *[Characterizing and Finding SystemSetting-Related Defects in Android Apps](publication/tse22/)* is accepted by TSE.
-- **29 Sep 2022** Invited to give a talk on Mobile app testing at ECNU.
+- **29 Sep 2022** Invited to give a talk on mobile app testing at ECNU.
 - **8 Aug 2022** Our paper *[Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning](publication/fastbot2/)* is accepted by the Industry Track of ASE 2022.
 - **22 Jun 2022** Our papers *[MUBot: Learning to Test Large-Scale Commercial Android Apps like a Human](publication/mubot/)* and *[Automated Server Testing: an Industrial Experience Report](publication/sit/)* are accepted by the Industry Track of ICSME 2022.
 

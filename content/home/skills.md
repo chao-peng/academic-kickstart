@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-weight = 60
+weight = 50
 title = "Skills"
 
 [design]
