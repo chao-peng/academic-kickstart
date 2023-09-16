@@ -54,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/chao-peng-uoe/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=HoVGmNMAAAAJ
+  link: https://scholar.google.com/citations?user=HoVGmNMAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/chao-peng
