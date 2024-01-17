@@ -8,6 +8,7 @@ title = "News"
     columns = 2
 
 +++
+- **21 Dec 2023** Our paper *[Hawkeye: Change-targeted Testing for Android Apps based on Deep Reinforcement Learning](publication/hawkeye)* is accepted by the SEIP track of ICSE 2024.
 - **8 Aug 2023** Our paper *[Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration](publication/gopie)* is accepted by ASE 2023.
 - **31 Jul 2023** Our paper *[AG3: Automated Game GUI Text Glitch Detection based on Computer Vision](publication/ag3)* is accepted by the Industry Track of FSE 2023.
 - **19 May 2022** Invited to give a talk on mobile app testing at University of Edinburgh.
