@@ -2,7 +2,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks"
-authors: ["Siwei Wang", "Xue Mao", "Ziguang Gao", "Yujun Gao", "Qucheng Shen", "Chao Peng"]
 authors: ["Zhu Tao", "Yongqiang Gao", "Jiayi Qi", "Chao Peng", "Qinyun Wu", "Xiang Chen", "Ping Yang"]
 
 date: 2024-07-15T00:00:00+01:00

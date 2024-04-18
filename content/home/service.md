@@ -17,12 +17,16 @@ title = "Service"
       <td>MSR 2023(Junior PC), A-Mobile 2022, PRDC 2022</td>
     </tr>
     <tr>
+      <td><b>PC Member (Industry Track)</b></td>
+      <td>MSR 2024</td>
+    </tr>
+    <tr>
       <td><b>PC Member (Artifact Evaluation)</b></td>
       <td>OSDI 2022, USENIX ATC 2022, ISSTA 2022, 2021, 2020</td>
     </tr>
     <tr>
       <td><b>Reviewer</b></td>
-      <td>TOSEM</td>
+      <td>TOSEM, TSE, STVR</td>
     </tr>
     <tr>
       <td><b>Sub-reviewer</b></td>
