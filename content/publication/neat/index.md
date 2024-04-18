@@ -1,10 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AG3: Automated Game GUI Text Glitch Detection based on Computer Vision"
-authors: ["Xiaoyun Liang", "Jiayi Qi", "Yongqiang Gao", "Chao Peng", "Ping Yang"]
+title: "Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks"
+authors: ["Siwei Wang", "Xue Mao", "Ziguang Gao", "Yujun Gao", "Qucheng Shen", "Chao Peng"]
+authors: ["Zhu Tao", "Yongqiang Gao", "Jiayi Qi", "Chao Peng", "Qinyun Wu", "Xiang Chen", "Ping Yang"]
 
-date: 2023-12-03T00:00:00+01:00
+date: 2024-07-15T00:00:00+01:00
 # doi: "10.1007/978-3-030-16722-6_19"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,15 +18,15 @@ publishDate: 2021-06-15T00:00:00+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In proceedings of the 2023 ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)"
-publication_short: "In proceedings of ESEC/FSE 2023"
+publication: "In proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE 2024)"
+publication_short: "In proceedings of FSE 2024"
 
-abstract: "With the advancement of device software and hardware performance, and the evolution of game engines, an increasing number of emerging high-quality games are captivating game players from all around the world who speak different languages. However, due to the vast fragmentation of the device and platform market, a well-tested game may still experience text glitches when installed on a new device with an unseen screen resolution and system version, which can significantly impact the user experience. In our testing pipeline, current testing techniques for identifying multilingual text glitches are laborious and inefficient. In this paper, we present AG3, which offers intelligent game traversal, precise visual text glitch detection, and integrated quality report generation capabilities. Our empirical evaluation and internal industrial deployment demonstrate that AG3 can detect various real-world multilingual text glitches with minimal human involvement."
+abstract: "A wide variety of device models, screen resolutions and operating systems have emerged with recent advances in mobile devices. As a result, the graphical user interface (GUI) layout in mobile apps has become increasingly complex due to this market fragmentation, with rapid iterations being the norm. Testing page layout issues under these circumstances hence becomes a resource-intensive task, requiring significant manpower and effort due to the vast number of device models and screen resolution adaptations. One of the most challenging issues to cover manually is multi-model and cross-version layout verification for the same GUI page. To address this issue, we propose Neat, a non-intrusive end-to-end mobile app layout similarity measurement tool that utilizes computer vision techniques for GUI element detection, layout feature extraction, and similarity metrics. Our empirical evaluation and industrial application have demonstrated that our approach is effective in improving the efficiency of layout assertion testing and ensuring application quality."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Software Testing", "AI2SE"]
+tags: ["Software Testing", "Deep Learning", "AI4SE"]
 categories: []
 featured: false
 

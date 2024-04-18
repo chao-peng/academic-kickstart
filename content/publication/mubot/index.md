@@ -24,7 +24,7 @@ abstract: "Automated GUI testing has been playing a key role to uncover crashes 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Android Testing", "Graphical User Interface", "Deep Learning"]
+tags: ["Android Testing", "Graphical User Interface", "Deep Learning", "AI2SE"]
 categories: []
 featured: false
 

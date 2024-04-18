@@ -25,7 +25,7 @@ abstract: "In the industrial setting, mobile apps undergo frequent updates to ca
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Software Testing"]
+tags: ["Software Testing", "AI2SE"]
 categories: []
 featured: true
 

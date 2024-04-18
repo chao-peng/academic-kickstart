@@ -29,7 +29,7 @@ In real-world industrial deployment, Hawkeye is seamlessly integrated into our d
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Software Testing"]
+tags: ["Software Testing", "AI2SE"]
 categories: []
 featured: false
 
