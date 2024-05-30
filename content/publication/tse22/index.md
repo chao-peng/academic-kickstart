@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Characterizing and Finding System Setting-Related Defects in Android Apps"
-authors: ["Jingling Sun", "Ting Su", "Kai Liu", "Chao Peng", "Zhao Zhang", "Geguang Pu", "Tao Xie", "Zhendong Su"]
+authors: ["Jingling Sun", "Ting Su", "Kai Liu", admin, "Zhao Zhang", "Geguang Pu", "Tao Xie", "Zhendong Su"]
 date: 2022-12-19T00:00:00+01:00
-#doi: "10.1109/APSEC48747.2019.00071"
+doi: "10.1109/TSE.2023.3236449"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-30T00:00:00+01:00
@@ -13,7 +13,7 @@ publishDate: 2019-09-30T00:00:00+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Software Engineering"
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: pdf/TSE22.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

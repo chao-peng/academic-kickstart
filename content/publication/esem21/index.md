@@ -2,9 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Testing Smart Contracts: Which Technique Performs Best?"
-authors: ["Sefa Akca", "Chao Peng", "Ajitha Rajan"]
+authors:
+ - Sefa Akca
+ - admin
+ - Ajitha Rajan
+
 date: 2021-10-11T00:00:00+01:00
-# doi: "10.1007/978-3-030-16722-6_19"
+doi: "10.1145/3475716.3475779"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-06-30T00:00:00+01:00
@@ -13,7 +17,7 @@ publishDate: 2021-06-30T00:00:00+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2021)"
@@ -36,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: pdf/ESEM21.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
