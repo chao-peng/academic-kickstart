@@ -140,3 +140,9 @@ prefix="chao.peng"
 domain="acm"
 email=${prefix}@${domain}.org
 ```
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chaopeng/30min'});return false;">Schedule time to talk with me</a>
+<!-- Calendly link widget end -->
