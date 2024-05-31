@@ -234,5 +234,10 @@ sections:
           description: ""
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=E9TlfkNpIanMxOr8TG2ZNRhIVJYur9Dih6YZSxVVt98'></script>
 
 ---
