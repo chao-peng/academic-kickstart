@@ -16,14 +16,16 @@ sections:
     content:
       title: News
       text: |-
+        - **4 Aug 2024** Our paper *[RepoSim: Evaluating Prompt Strategies for Code Completion via User Behavior Simulation](publication/ase24nier)* is accepted by the NIER track of ASE 2024.
+        - **14 Jun 2024** I am invited to join the organisation committee of the [6th International Workshop on Automated Program Repair (APR 2025)](https://program-repair.org/workshop-2025/), co-located with ICSE 2025. Please consider submitting your paper to the workshop!
         - **18 Apr 2024** Our paper *[Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks](publication/fse24)* is accepted by the Industry Track of FSE 2024.
         - **21 Dec 2023** Our paper *[Hawkeye: Change-targeted Testing for Android Apps based on Deep Reinforcement Learning](publication/icse24seip)* is accepted by the SEIP track of ICSE 2024.
         - **8 Aug 2023** Our paper *[Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration](publication/ase23)* is accepted by ASE 2023.
         - **31 Jul 2023** Our paper *[AG3: Automated Game GUI Text Glitch Detection based on Computer Vision](publication/fse23)* is accepted by the Industry Track of FSE 2023.
-        - **19 May 2022** Invited to give a talk on mobile app testing at University of Edinburgh.
-        - **28 Apr 2023** Our paper *[NxtUnit: Automated Unit Test Generation for Go](publication/ease23)* is accepted by the Industry Track of EASE 2023.
         <div style="display:none" id="more_news">
 
+        - **19 May 2022** Invited to give a talk on mobile app testing at University of Edinburgh.
+        - **28 Apr 2023** Our paper *[NxtUnit: Automated Unit Test Generation for Go](publication/ease23)* is accepted by the Industry Track of EASE 2023.
         - **19 Dec 2022** Our paper *[Characterizing and Finding SystemSetting-Related Defects in Android Apps](publication/tse22/)* is accepted by TSE.
         - **29 Sep 2022** Invited to give a talk on mobile app testing at ECNU.
         - **8 Aug 2022** Our paper *[Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning](publication/ase22/)* is accepted by the Industry Track of ASE 2022.
@@ -82,6 +84,10 @@ sections:
       text: |-
         <table>
           <tbody>
+            <tr>
+              <td><b>Organising Committee</b></td>
+              <td><a href='https://program-repair.org/workshop-2025/', target='_blank'>APR 2025 (Workshop with ICSE 2025)</a></td>
+            </tr>
             <tr>
               <td><b>PC Member (Research/Technical Track)</b></td>
               <td>FSE 2025, MSR 2023(Junior PC), A-Mobile 2022, PRDC 2022</td>

@@ -121,7 +121,7 @@ Chao Peng （彭péng, 超chāo）
 I am a Senior Researcher at [ByteDance (字节跳动)](https://www.bytedance.com) and a part-time postgraduate student mentor of [School of Computer Science, Fudan University](https://cs.fudan.edu.cn).
 I received my PhD degree from [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [The University of Edinburgh](https://www.ed.ac.uk/) under supervision of [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
 
-At ByteDance, I am on the [Software Engineering Lab, Dev Infra Research Center](https://se-research.bytedance.com). My research interest lies in the area of software testing, program repair and optimisations, and the synergy with machine learning and compiler techniques. I am also responsible for academic development and university collaboration.
+At ByteDance, I am on the [Software Engineering Lab](https://se-research.bytedance.com). My research interest lies in the area of software testing, program repair and optimisations, and the synergy with machine learning and compiler techniques. I am also responsible for academic development and university collaboration.
 
 I am passionate about building practical software testing, analysis, and debugging systems to predict, detect, diagnose, and fix bugs for all kinds of software systems.
 
