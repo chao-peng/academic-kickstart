@@ -118,8 +118,8 @@ highlight_name: true
 
 Chao Peng （彭péng, 超chāo）
 
-I am a Senior Researcher at [ByteDance (字节跳动)](https://www.bytedance.com) and a part-time postgraduate student mentor of [School of Computer Science, Fudan University](https://cs.fudan.edu.cn).
-I received my PhD degree from [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [The University of Edinburgh](https://www.ed.ac.uk/) under supervision of [Dr. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
+I am a Senior Researcher at [ByteDance (字节跳动)](https://www.bytedance.com).
+I received my PhD degree from [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [The University of Edinburgh](https://www.ed.ac.uk/) under supervision of [Prof. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
 
 At ByteDance, I am on the [Software Engineering Lab](https://se-research.bytedance.com). My research interest lies in the area of software testing, program repair and optimisations, and the synergy with machine learning and compiler techniques. I am also responsible for academic development and university collaboration.
 
@@ -144,5 +144,6 @@ email=${prefix}@${domain}.org
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chaopeng/30min'});return false;">Schedule time to talk with me</a>
+<!-- <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chaopeng/30min'});return false;">Schedule time to talk with me</a> -->
 <!-- Calendly link widget end -->
+<button onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chaopeng/30min'});return false;">Schedule time to talk with me</a>

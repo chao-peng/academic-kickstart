@@ -16,13 +16,17 @@ sections:
     content:
       title: News
       text: |-
+        - **16 Dec 2024** Our paper *[DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production](publication/icse25seip)* is accepted by the SEIP track of ICSE 2025.
+        - **29 Nov 2024** Our ppaer *[Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study](publication/coling25)* is accepted by COLING 2025.
+        - **12 Nov 2024** [AI IDE Workshop](https://conf.researchr.org/home/fse-2025/ai-ide-2025) is accepted by FSE 2025. Please consider submit paper to us! See you in Norway!
         - **4 Aug 2024** Our paper *[RepoSim: Evaluating Prompt Strategies for Code Completion via User Behavior Simulation](publication/ase24nier)* is accepted by the NIER track of ASE 2024.
         - **14 Jun 2024** I am invited to join the organisation committee of the [6th International Workshop on Automated Program Repair (APR 2025)](https://program-repair.org/workshop-2025/), co-located with ICSE 2025. Please consider submitting your paper to the workshop!
+        <div style="display:none" id="more_news">
+
         - **18 Apr 2024** Our paper *[Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks](publication/fse24)* is accepted by the Industry Track of FSE 2024.
         - **21 Dec 2023** Our paper *[Hawkeye: Change-targeted Testing for Android Apps based on Deep Reinforcement Learning](publication/icse24seip)* is accepted by the SEIP track of ICSE 2024.
         - **8 Aug 2023** Our paper *[Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration](publication/ase23)* is accepted by ASE 2023.
         - **31 Jul 2023** Our paper *[AG3: Automated Game GUI Text Glitch Detection based on Computer Vision](publication/fse23)* is accepted by the Industry Track of FSE 2023.
-        <div style="display:none" id="more_news">
 
         - **19 May 2022** Invited to give a talk on mobile app testing at University of Edinburgh.
         - **28 Apr 2023** Our paper *[NxtUnit: Automated Unit Test Generation for Go](publication/ease23)* is accepted by the Industry Track of EASE 2023.
@@ -61,22 +65,30 @@ sections:
         <u><a onclick="handleNews()" id="button_more">More..</a></u>
 
     design:
-      columns: '2'
-  - block: collection
+      columns: '1'
+  - block: markdown
     id: featured
     content:
       title: Featured Publications
       text: |-
         {{% callout note %}}
-        [See All publications >](./publication/).
+        [See All publications >](./publication/)
         {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: citation
+        * LLM4Code
+          * [[Preprint]MarsCode Agent: AI-native Automated Bug Fixing](publication/arXiv24MarsCodeAgent)
+          * [[COLING'25] Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study](publication/coling25)
+          * [[Preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing](publication/arXiv24Empirical)
+          * [[Preprint] RepoMasterEval: Evaluating Code Completion via Real-World Repositories](publication/arxiv24RepoMasterEval)
+        * GUI Testing
+          * [[FSE'24 Industry]Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks](publication/fse24)
+          * [[TSE] Characterizing and Finding SystemSetting-Related Defects in Android Apps](publication/tse22/)
+          * [[ASE'22 Industry]Fastbot2: Reusable Automated Model-based GUI Testing for Android Enhanced by Reinforcement Learning](publication/ase22/)
+          * [[ICSE'24 SEIP] Hawkeye: Change-targeted Testing for Android Apps based on Deep Reinforcement Learning](publication/icse24seip)
+        * Software Testing
+          * [[ESEM'21] Testing Smart Contracts: Which Technique Performs Best?](publication/esem21/)
+          * [[APSEC'19] SolAnalyser: A Framework for Analysing and Testing Smart Contracts](publication/apsec19b)
+          * [[APSEC'19] SIF: A Framework for Solidity Contract Instrumentation and Analysis](publication/apsec19a)
+          * [[FASE'19] CLTestCheck: Measuring Test Effectiveness for GPU Kernels](publication/fase19/)
   - block: markdown
     id: service
     content:
@@ -86,7 +98,7 @@ sections:
           <tbody>
             <tr>
               <td><b>Organising Committee</b></td>
-              <td><a href='https://program-repair.org/workshop-2025/', target='_blank'>APR 2025 (Workshop with ICSE 2025)</a></td>
+              <td><a href='https://conf.researchr.org/home/fse-2025/ai-ide-2025', target='_blank'>AI IDE@FSE 2025</a>, <a href='https://program-repair.org/workshop-2025/', target='_blank'>APR@ICSE 2025</a></td>
             </tr>
             <tr>
               <td><b>PC Member (Research/Technical Track)</b></td>
@@ -94,7 +106,7 @@ sections:
             </tr>
             <tr>
               <td><b>PC Member (Industry Track)</b></td>
-              <td>ISSRE 2024, APSEC 2024, MSR 2024</td>
+              <td>MSR 2025, SANER 2025, ISSRE 2024, APSEC 2024, MSR 2024</td>
             </tr>
             <tr>
               <td><b>PC Member (Artifact Evaluation)</b></td>
@@ -115,7 +127,7 @@ sections:
           </tbody>
         </table>
     design:
-      columns: '2'
+      columns: '1'
   - block: markdown
     id: teaching
     content:
@@ -132,7 +144,7 @@ sections:
         **[Demonstrator]** Introduction to Java Programming. School of Informatics, the University of Edinburgh. Sep 2017 - Dec2017, Sep 2018 - Dec 2018
 
     design:
-      columns: '2'
+      columns: '1'
   - block: markdown
     id: awards
     content:
@@ -152,7 +164,7 @@ sections:
         - Excellent Graduate of Xuzhou University of Technology
         - Jiangsu Province-Level Excellent Student Cadre
     design:
-      columns: '2'
+      columns: '1'
   - block: experience
     id: experience
     content:
@@ -196,7 +208,7 @@ sections:
             * Micro benchmarking for mobile GPUs
             * Mentor: Graham Connor (Chief GPU Scientist)
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -239,7 +251,7 @@ sections:
           date_end: "2015-12-01"
           description: ""
     design:
-      columns: '2'
+      columns: '1'
   - block: markdown
     content:
       title: ''
