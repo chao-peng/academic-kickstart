@@ -181,7 +181,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Researcher
+        - title: Senior Research Scientist
           company: ByteDance
           company_url: 'https://www.bytedance.com'
           company_logo: ''
