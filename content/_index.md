@@ -78,6 +78,7 @@ sections:
         [See All publications >](./publication/)
         {{% /callout %}}
         * LLM4Code
+          * [[Preprint] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/arxiv24SoRFT)
           * [[Preprint] MarsCode Agent: AI-native Automated Bug Fixing](publication/arXiv24MarsCodeAgent)
           * [[COLING'25] Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study](publication/coling25)
           * [[Preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing](publication/arXiv24Empirical)
