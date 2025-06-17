@@ -16,6 +16,11 @@ sections:
     content:
       title: News
       text: |-
+        - **17 Jun 2025** Our paper *[Go-Oracle: Automated Test Oracle for Go Concurrency Bugs](publication/esem25)* is accepted by the Technical Track of ESEM 2025.
+        - **13 Jun 2025** Invited to join the program committee of the Industrial Track of SANER 2026 and the first International Workshop on Autonomous Agents in Software Engineering (AgenticSE) colocated with ASE 2025.
+        - **16 May 2025** Our paper *[SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/acl25)* is accepted by the Main Track of ACL 2025. Congratulations to Zexiong!
+        - **5 Apr 2025** Our paper *[Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark](publication/sigir25short)* has been accepted by the SIGIR 2025 Short Paper track. Congratulations to Ruida!
+        - **25 Mar 2025** Our paper *[AEGIS: An Agent-based Framework for Bug Reproduction from Issue Descriptions](publication/fse25industry)* is accepted by the Industry Track of FSE 2025. Congratulations to Xinchen!
         - **10 Feb 2025** Invited to join the program committee of ASE 2025. [Please consider submitting to us!](https://conf.researchr.org/track/ase-2025/ase-2025-papers)
         - **21 Dec 2024** Invited to join the steering committee of AIware. The next conference will be colocated with ASE 2025. [Please consider submitting to us!](https://conf.researchr.org/track/aiware-2025/aiware-2025-papers#Call-for-Papers)
         - **16 Dec 2024** Our paper *[DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production](publication/icse25seip)* is accepted by the SEIP track of ICSE 2025.
@@ -78,7 +83,7 @@ sections:
         [See All publications >](./publication/)
         {{% /callout %}}
         * LLM4Code
-          * [[Preprint] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/arxiv24SoRFT)
+          * [[ACL'25] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/acl25)
           * [[Preprint] MarsCode Agent: AI-native Automated Bug Fixing](publication/arXiv24MarsCodeAgent)
           * [[COLING'25] Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study](publication/coling25)
           * [[Preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing](publication/arXiv24Empirical)
@@ -106,11 +111,11 @@ sections:
             </tr>
             <tr>
               <td><b>PC Member (Research/Technical Track)</b></td>
-              <td>ASE 2025, FSE 2025, MSR 2023(Junior PC), A-Mobile 2022, PRDC 2022</td>
+              <td>AgenticSE 2025, ASE 2025, FSE 2025, MSR 2023(Junior PC), A-Mobile 2022, PRDC 2022</td>
             </tr>
             <tr>
               <td><b>PC Member (Industry Track)</b></td>
-              <td>MSR 2025, SANER 2025, ISSRE 2024, APSEC 2024, MSR 2024</td>
+              <td>SANER 2026, MSR 2025, SANER 2025, ISSRE 2024, APSEC 2024, MSR 2024</td>
             </tr>
             <tr>
               <td><b>PC Member (Artifact Evaluation)</b></td>
@@ -118,7 +123,7 @@ sections:
             </tr>
             <tr>
               <td><b>Reviewer</b></td>
-              <td>TOSEM, TSE, STVR</td>
+              <td>TOSEM, TSE, STVR, IEEE Software</td>
             </tr>
             <tr>
               <td><b>Sub-reviewer</b></td>
