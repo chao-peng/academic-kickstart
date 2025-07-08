@@ -16,12 +16,16 @@ sections:
     content:
       title: News
       text: |-
+        - **24 Jun 2025** Selected as the Distinguished Reviewer for FSE'25.
+        - **18 Jun 2025** Invited to join the program committee of the [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers).
         - **17 Jun 2025** Our paper *[Go-Oracle: Automated Test Oracle for Go Concurrency Bugs](publication/esem25)* is accepted by the Technical Track of ESEM 2025.
         - **13 Jun 2025** Invited to join the program committee of the Industrial Track of SANER 2026 and the first International Workshop on Autonomous Agents in Software Engineering (AgenticSE) colocated with ASE 2025.
         - **16 May 2025** Our paper *[SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/acl25)* is accepted by the Main Track of ACL 2025. Congratulations to Zexiong!
         - **5 Apr 2025** Our paper *[Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark](publication/sigir25short)* has been accepted by the SIGIR 2025 Short Paper track. Congratulations to Ruida!
         - **25 Mar 2025** Our paper *[AEGIS: An Agent-based Framework for Bug Reproduction from Issue Descriptions](publication/fse25industry)* is accepted by the Industry Track of FSE 2025. Congratulations to Xinchen!
         - **10 Feb 2025** Invited to join the program committee of ASE 2025. [Please consider submitting to us!](https://conf.researchr.org/track/ase-2025/ase-2025-papers)
+        <div style="display:none" id="more_news">
+
         - **21 Dec 2024** Invited to join the steering committee of AIware. The next conference will be colocated with ASE 2025. [Please consider submitting to us!](https://conf.researchr.org/track/aiware-2025/aiware-2025-papers#Call-for-Papers)
         - **16 Dec 2024** Our paper *[DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production](publication/icse25seip)* is accepted by the SEIP track of ICSE 2025.
         - **29 Nov 2024** Our ppaer *[Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study](publication/coling25)* is accepted by COLING 2025.
@@ -30,8 +34,6 @@ sections:
         - **14 Jun 2024** I am invited to join the organisation committee of the [6th International Workshop on Automated Program Repair (APR 2025)](https://program-repair.org/workshop-2025/), co-located with ICSE 2025. Please consider submitting your paper to the workshop!
         - **18 Apr 2024** Our paper *[Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks](publication/fse24)* is accepted by the Industry Track of FSE 2024.
         - **16 Apr 2024** Invited to join the program committee of FSE 2025. [Please consider submitting to us!](https://conf.researchr.org/track/fse-2025/fse-2025-papers)
-        <div style="display:none" id="more_news">
-
         - **21 Dec 2023** Our paper *[Hawkeye: Change-targeted Testing for Android Apps based on Deep Reinforcement Learning](publication/icse24seip)* is accepted by the SEIP track of ICSE 2024.
         - **8 Aug 2023** Our paper *[Effective Concurrency Testing for Go via Directional Primitive-constrained Interleaving Exploration](publication/ase23)* is accepted by ASE 2023.
         - **31 Jul 2023** Our paper *[AG3: Automated Game GUI Text Glitch Detection based on Computer Vision](publication/fse23)* is accepted by the Industry Track of FSE 2023.
@@ -111,7 +113,7 @@ sections:
             </tr>
             <tr>
               <td><b>PC Member (Research/Technical Track)</b></td>
-              <td>AgenticSE 2025, ASE 2025, FSE 2025, MSR 2023(Junior PC), A-Mobile 2022, PRDC 2022</td>
+              <td>FSE 2026, AgenticSE 2025, ASE 2025, FSE 2025, MSR 2023(Junior PC), A-Mobile 2022, PRDC 2022</td>
             </tr>
             <tr>
               <td><b>PC Member (Industry Track)</b></td>
