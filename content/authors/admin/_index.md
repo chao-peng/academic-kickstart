@@ -105,9 +105,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/chao-peng
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/clarkcp93
+  link: https://x.com/chao_peng_
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/chao_peng_/
