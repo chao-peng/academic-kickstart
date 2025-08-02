@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+        - **1 Aug 2025** We are happy to publish the [technical report](publication/arXiv25TraeAgent) of [Trae Agent](https://github.com/bytedance/trae-agent), the SOTA agent on the SWE-bench Verified Leaderboard.
         - **24 Jun 2025** Selected as the Distinguished Reviewer for FSE'25.
         - **18 Jun 2025** Invited to join the program committee of the [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers).
         - **17 Jun 2025** Our paper *[Go-Oracle: Automated Test Oracle for Go Concurrency Bugs](publication/esem25)* is accepted by the Technical Track of ESEM 2025.
@@ -85,8 +86,8 @@ sections:
         [See All publications >](./publication/)
         {{% /callout %}}
         * LLM4Code
+          * [[Preprint] Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](publication/arXiv25TraeAgent)
           * [[ACL'25] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/acl25)
-          * [[Preprint] MarsCode Agent: AI-native Automated Bug Fixing](publication/arXiv24MarsCodeAgent)
           * [[COLING'25] Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study](publication/coling25)
           * [[Preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing](publication/arXiv24Empirical)
           * [[Preprint] RepoMasterEval: Evaluating Code Completion via Real-World Repositories](publication/arxiv24RepoMasterEval)
