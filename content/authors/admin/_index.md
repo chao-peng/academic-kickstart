@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher
+role: Principal Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -118,7 +118,7 @@ highlight_name: true
 
 Chao Peng （彭péng, 超chāo）
 
-I am a Senior Research Scientist at [ByteDance (字节跳动)](https://www.bytedance.com).
+I am a Principal Research Scientist at [ByteDance (字节跳动)](https://www.bytedance.com).
 I received my PhD degree from [Laboratory for Foundations of Computer Science (LFCS)](http://wcms.inf.ed.ac.uk/lfcs), [The University of Edinburgh](https://www.ed.ac.uk/) under supervision of [Prof. Ajitha Rajan](http://homepages.inf.ed.ac.uk/arajan).
 
 At ByteDance, I lead the [Software Engineering Lab](https://se-research.bytedance.com), where we conduct research on AI agents for software engineering. My research interest lies in the area of software testing, program repair and optimisations, and the synergy with machine learning and compiler techniques. I am also responsible for academic development and university collaboration.

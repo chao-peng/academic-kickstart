@@ -16,6 +16,8 @@ sections:
     content:
       title: News
       text: |-
+        - **12 Sep 2025** Our paper *[RepoMasterEval: Evaluating Code Completion via Real-World Repositories](publication/ase25industry/)* is accepted by the Industry Track of ASE 2025.
+        - **14 Aug 2025** Our paper *[CodeVisionary: An Agent-based Framework for Evaluating Large Language Models in Code Generation](publication/ase25)* is accepted by the Research Track of ASE 2025.
         - **1 Aug 2025** We are happy to publish the [technical report](publication/arXiv25TraeAgent) of [Trae Agent](https://github.com/bytedance/trae-agent), the SOTA agent on the SWE-bench Verified Leaderboard.
         - **24 Jun 2025** Selected as the Distinguished Reviewer for FSE'25.
         - **18 Jun 2025** Invited to join the program committee of the [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers).
@@ -87,6 +89,7 @@ sections:
         {{% /callout %}}
         * LLM4Code
           * [[Preprint] Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](publication/arXiv25TraeAgent)
+          * [[Preprint] Tool-integrated Reinforcement Learning for Repo Deep Search](publication/arXiv25ToolTrain)
           * [[ACL'25] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/acl25)
           * [[COLING'25] Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study](publication/coling25)
           * [[Preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing](publication/arXiv24Empirical)
@@ -114,11 +117,11 @@ sections:
             </tr>
             <tr>
               <td><b>PC Member (Research/Technical Track)</b></td>
-              <td>FSE 2026, AgenticSE 2025, ASE 2025, FSE 2025, MSR 2023(Junior PC), A-Mobile 2022, PRDC 2022</td>
+              <td>LLM4Code 2026, FSE 2026, AgenticSE 2025, ASE 2025, FSE 2025, MSR 2023(Junior PC), A-Mobile 2022, PRDC 2022</td>
             </tr>
             <tr>
               <td><b>PC Member (Industry Track)</b></td>
-              <td>SANER 2026, MSR 2025, SANER 2025, ISSRE 2024, APSEC 2024, MSR 2024</td>
+              <td>SANER 2026, ASE 2025, MSR 2025, SANER 2025, ISSRE 2024, APSEC 2024, MSR 2024</td>
             </tr>
             <tr>
               <td><b>PC Member (Artifact Evaluation)</b></td>
@@ -190,7 +193,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Research Scientist
+        - title: Principal Research Scientist
           company: ByteDance
           company_url: 'https://www.bytedance.com'
           company_logo: ''
