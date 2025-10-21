@@ -23,6 +23,7 @@ sections:
         - **11 Aug 2025** Invited to serve as the Co-chair for the [Industry Track of FORGE 2026](https://conf.researchr.org/track/forge-2026/forge-2026-industry-papers). This year, we will feature invited talks from leading practitioners and innovators at the forefront of AI-driven software engineering. Stay tuned!
         - **1 Aug 2025** We are happy to publish the [technical report](publication/arXiv25TraeAgent) of [Trae Agent](https://github.com/bytedance/trae-agent), the SOTA agent on the SWE-bench Verified Leaderboard.
         - **24 Jun 2025** Selected as the Distinguished Reviewer for FSE'25.
+        - **7 Jul 2025** I am invited to give keynote talks at [AIware'25](https://2025.aiwareconf.org/track/aiware-2025-keynotes) and the [AgenticSE workshop](https://2025.aiwareconf.org/track/aiware-2025-keynotes), both co-located with ASE'25 in Seoul.
         - **18 Jun 2025** Invited to join the program committee of the [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers).
         - **17 Jun 2025** Our paper *[Go-Oracle: Automated Test Oracle for Go Concurrency Bugs](publication/esem25)* is accepted by the Technical Track of ESEM 2025.
         - **13 Jun 2025** Invited to join the program committee of the Industrial Track of SANER 2026 and the first International Workshop on Autonomous Agents in Software Engineering (AgenticSE) colocated with ASE 2025.
@@ -118,6 +119,10 @@ sections:
             <tr>
               <td><b>Organising/Steering Committee</b></td>
               <td><a href='https://conf.researchr.org/home/aiware-2025', target='_blank'>AIware@ASE 2025</a>, <a href='https://conf.researchr.org/home/fse-2025/ai-ide-2025', target='_blank'>AI IDE@FSE 2025</a>, <a href='https://program-repair.org/workshop-2025/', target='_blank'>APR@ICSE 2025</a></td>
+            </tr>
+            <tr>
+              <td><b>Co-chair</b></td>
+              <td><a href='https://conf.researchr.org/track/forge-2026/forge-2026-industry-papers', target='_blank'>FORGE 2026 Industry Track</a></td>
             </tr>
             <tr>
               <td><b>PC Member (Research/Technical Track)</b></td>
