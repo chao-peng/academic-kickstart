@@ -12,6 +12,12 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
+    id: reseaerch
+    content:
+      title: LLM4SE Research Overview
+      text: |-
+        <img src="llm-research.svg">
+  - block: markdown
     id: news
     content:
       title: News
