@@ -16,18 +16,21 @@ sections:
     content:
       title: News
       text: |-
+        - **16 Oct 2025** Three papers are accepted by ICSE 2026: *[More with Less: An Empirical Study of Turn-Control Strategies for Efficient Coding Agents](https://arxiv.org/abs/2510.16786)*, *[Enhancing Issue Localization Agent with Tool-Interactive Training](https://arxiv.org/abs/2508.03012)*, and *[LLM-based Agents for Automated Bug Fixing: How Far Are We?](https://arxiv.org/abs/2411.10213)*
+        - **25 Sep 2025** Our paper *Repo2Run: Automated Building Executable Environment for Code Repository at Scale* is accepted by NeurIPS 2025 as a Spotlight Paper [[pdf]](https://arxiv.org/pdf/2502.13681). Congratulations to Ruida! The framework is available at [GitHub](https://github.com/bytedance/repo2run).
         - **12 Sep 2025** Our paper *[RepoMasterEval: Evaluating Code Completion via Real-World Repositories](publication/ase25industry/)* is accepted by the Industry Track of ASE 2025.
         - **14 Aug 2025** Our paper *[CodeVisionary: An Agent-based Framework for Evaluating Large Language Models in Code Generation](publication/ase25)* is accepted by the Research Track of ASE 2025.
+        - **11 Aug 2025** Invited to serve as the Co-chair for the [Industry Track of FORGE 2026](https://conf.researchr.org/track/forge-2026/forge-2026-industry-papers). This year, we will feature invited talks from leading practitioners and innovators at the forefront of AI-driven software engineering. Stay tuned!
         - **1 Aug 2025** We are happy to publish the [technical report](publication/arXiv25TraeAgent) of [Trae Agent](https://github.com/bytedance/trae-agent), the SOTA agent on the SWE-bench Verified Leaderboard.
         - **24 Jun 2025** Selected as the Distinguished Reviewer for FSE'25.
         - **18 Jun 2025** Invited to join the program committee of the [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers).
         - **17 Jun 2025** Our paper *[Go-Oracle: Automated Test Oracle for Go Concurrency Bugs](publication/esem25)* is accepted by the Technical Track of ESEM 2025.
         - **13 Jun 2025** Invited to join the program committee of the Industrial Track of SANER 2026 and the first International Workshop on Autonomous Agents in Software Engineering (AgenticSE) colocated with ASE 2025.
         - **16 May 2025** Our paper *[SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/acl25)* is accepted by the Main Track of ACL 2025. Congratulations to Zexiong!
+        <div style="display:none" id="more_news">
         - **5 Apr 2025** Our paper *[Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark](publication/sigir25short)* has been accepted by the SIGIR 2025 Short Paper track. Congratulations to Ruida!
         - **25 Mar 2025** Our paper *[AEGIS: An Agent-based Framework for Bug Reproduction from Issue Descriptions](publication/fse25industry)* is accepted by the Industry Track of FSE 2025. Congratulations to Xinchen!
-        - **10 Feb 2025** Invited to join the program committee of ASE 2025. [Please consider submitting to us!](https://conf.researchr.org/track/ase-2025/ase-2025-papers)
-        <div style="display:none" id="more_news">
+        - **10 Feb 2025** Invited to join the program committee of ASE 2025 on both the research and industry tracks. [Please consider submitting to us!](https://conf.researchr.org/track/ase-2025/ase-2025-papers)
 
         - **21 Dec 2024** Invited to join the steering committee of AIware. The next conference will be colocated with ASE 2025. [Please consider submitting to us!](https://conf.researchr.org/track/aiware-2025/aiware-2025-papers#Call-for-Papers)
         - **16 Dec 2024** Our paper *[DialogAgent: An Auto-engagement Agent for Code Question Answering Data Production](publication/icse25seip)* is accepted by the SEIP track of ICSE 2025.
@@ -88,12 +91,13 @@ sections:
         [See All publications >](./publication/)
         {{% /callout %}}
         * LLM4Code
-          * [[Preprint] Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](publication/arXiv25TraeAgent)
-          * [[Preprint] Tool-integrated Reinforcement Learning for Repo Deep Search](publication/arXiv25ToolTrain)
+          * [[Techinical Report] Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](publication/arXiv25TraeAgent)
+          * [[ICSE'26] Tool-integrated Reinforcement Learning for Repo Deep Search](publication/arXiv25ToolTrain)
           * [[ACL'25] SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](publication/acl25)
           * [[COLING'25] Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study](publication/coling25)
-          * [[Preprint] An Empirical Study on LLM-based Agents for Automated Bug Fixing](publication/arXiv24Empirical)
-          * [[Preprint] RepoMasterEval: Evaluating Code Completion via Real-World Repositories](publication/arxiv24RepoMasterEval)
+          * [[NeurIPS'25] Repo2Run: Automated Building ExecutableEnvironment for Code Repository at Scale](publication/arxiv24Repo2Run/)
+          * [[ICSE'26] An Empirical Study on LLM-based Agents for Automated Bug Fixing](publication/arXiv24Empirical)
+          * [[ASE'25 Industry Track] RepoMasterEval: Evaluating Code Completion via Real-World Repositories](publication/arxiv24RepoMasterEval)
         * GUI Testing
           * [[FSE'24 Industry] Neat: Mobile App Layout Similarity Comparison based on Graph Convolutional Networks](publication/fse24)
           * [[TSE] Characterizing and Finding SystemSetting-Related Defects in Android Apps](publication/tse22/)
