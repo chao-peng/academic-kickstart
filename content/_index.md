@@ -22,6 +22,7 @@ sections:
     content:
       title: News
       text: |-
+        - **12 Nov 2025** I am invited to serve as the program co-chair for AIware. Please consider submit to us. The CFP is on the way.
         - **16 Oct 2025** Three papers are accepted by ICSE 2026: *[More with Less: An Empirical Study of Turn-Control Strategies for Efficient Coding Agents](https://arxiv.org/abs/2510.16786)*, *[Enhancing Issue Localization Agent with Tool-Interactive Training](https://arxiv.org/abs/2508.03012)*, and *[LLM-based Agents for Automated Bug Fixing: How Far Are We?](https://arxiv.org/abs/2411.10213)*
         - **25 Sep 2025** Our paper *Repo2Run: Automated Building Executable Environment for Code Repository at Scale* is accepted by NeurIPS 2025 as a Spotlight Paper [[pdf]](https://arxiv.org/pdf/2502.13681). Congratulations to Ruida! The framework is available at [GitHub](https://github.com/bytedance/repo2run).
         - **12 Sep 2025** Our paper *[RepoMasterEval: Evaluating Code Completion via Real-World Repositories](publication/ase25industry/)* is accepted by the Industry Track of ASE 2025.
@@ -127,7 +128,11 @@ sections:
               <td><a href='https://conf.researchr.org/home/aiware-2025', target='_blank'>AIware@ASE 2025</a>, <a href='https://conf.researchr.org/home/fse-2025/ai-ide-2025', target='_blank'>AI IDE@FSE 2025</a>, <a href='https://program-repair.org/workshop-2025/', target='_blank'>APR@ICSE 2025</a></td>
             </tr>
             <tr>
-              <td><b>Co-chair</b></td>
+              <td><b>Program Co-chair</b></td>
+              <td>AIware 2026</td>
+            </tr>
+            <tr>
+              <td><b>Industry Co-chair</b></td>
               <td><a href='https://conf.researchr.org/track/forge-2026/forge-2026-industry-papers', target='_blank'>FORGE 2026 Industry Track</a></td>
             </tr>
             <tr>

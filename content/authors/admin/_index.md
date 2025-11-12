@@ -123,6 +123,8 @@ I received my PhD degree from [Laboratory for Foundations of Computer Science (L
 
 At ByteDance, I lead the [Software Engineering Lab](https://se-research.bytedance.com), where we conduct research on AI agents for software engineering. My research interest lies in the area of software testing, program repair and optimisations, and the synergy with machine learning and compiler techniques. I am also responsible for academic development and university collaboration.
 
+My work appears in premier venues such as ICSE, FSE, ASE, ACL, NeurIPS and I serve/served on ASE/FSE/ISSTA program committees, as Steering Committee member of AIware, Program co-chair for AIware 2026 and Industry Track co-chair for FORGE 2026. I received the ACM SIGSOFT Distinguished Reviewer Award (FSE2025).
+
 <!--I am passionate about building practical software testing, analysis, and debugging systems to predict, detect, diagnose, and fix bugs for all kinds of software systems.-->
 
 Outside of work, I enjoy going to the gym.
