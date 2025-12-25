@@ -22,7 +22,11 @@ sections:
     content:
       title: News
       text: |-
-        - **12 Nov 2025** I am invited to serve as the program co-chair for AIware. Please consider submit to us. The CFP is on the way.
+        - **22 Dec 2025** Two papers are accepted by FSE 2026 (direct acceptance rate: 9.5%): Reducing Cost of LLM Agents with Trajectory Reduction, and GraphLocator: Graph-guided Causal Reasoning for Issue Localization. Congratulations to Wei and Yuan-an!
+        - **18 Dec 2025** I am invited to join the program committee of ASE 2026.
+        - **17 Dec 2025** One more paper, Agent-Based Ensemble Reasoning for Repository-Level Issue  Resolution, got accpeted by ICSE 2026 after a major revision. Congratulations to Zhao!
+        - **12 Nov 2025** I am invited to serve as the program co-chair for AIware. Please consider [submitting to us](https://conf.researchr.org/track/aiware-2026/aiware-2026-papers).
+        - **5 Nov 2025** I am invited to join the program committee of ISSTA 2026.
         - **16 Oct 2025** Three papers are accepted by ICSE 2026: *[More with Less: An Empirical Study of Turn-Control Strategies for Efficient Coding Agents](https://arxiv.org/abs/2510.16786)*, *[Enhancing Issue Localization Agent with Tool-Interactive Training](https://arxiv.org/abs/2508.03012)*, and *[LLM-based Agents for Automated Bug Fixing: How Far Are We?](https://arxiv.org/abs/2411.10213)*
         - **25 Sep 2025** Our paper *Repo2Run: Automated Building Executable Environment for Code Repository at Scale* is accepted by NeurIPS 2025 as a Spotlight Paper [[pdf]](https://arxiv.org/pdf/2502.13681). Congratulations to Ruida! The framework is available at [GitHub](https://github.com/bytedance/repo2run).
         - **12 Sep 2025** Our paper *[RepoMasterEval: Evaluating Code Completion via Real-World Repositories](publication/ase25industry/)* is accepted by the Industry Track of ASE 2025.
